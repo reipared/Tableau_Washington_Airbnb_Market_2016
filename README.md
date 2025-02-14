@@ -1,7 +1,7 @@
 # Washington Airbnb Market 2016
 
 ## Overview
-This repository contains a Tableau project created using **Tableau version 18.1**. It includes multiple worksheets and a dashboard that visualize data from a federated data source.
+This repository contains a Tableau project created using **Tableau version 18.1**. It includes multiple worksheets and a dashboard that visualize data from a data source.
 
 ## Contents
 - **Worksheets:**
@@ -12,8 +12,6 @@ This repository contains a Tableau project created using **Tableau version 18.1*
   - Bedroom Listings Count (Text)
 - **Dashboard:**
   - Washington Airbnb Market 2016
-- **Data Sources:**
-  - Federated Data Source
 
 ## Features
 - Multiple interactive worksheets visualizing data insights.
